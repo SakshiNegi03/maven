@@ -1,0 +1,6 @@
+Qus 1 to 4 are implemented in (basic-maven-project)
+Qus 5 is a multi module maven project 
+Url used in this are as follows :-
+https://mvnrepository.com/artifact/junit/junit/4.13.2
+https://mvnrepository.com/artifact/org.springframework/spring-core/5.3.4
+https://mvnrepository.com/artifact/org.hibernate/hibernate-core
